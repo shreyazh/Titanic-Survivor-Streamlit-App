@@ -1,0 +1,11 @@
+# passengerid - 123456
+# pclass - 1,2,3
+# name - 'shreyash srivastva'
+# sex - 'male','female'
+# age - 0,100
+# sibsp - 0,10 - number of siblings or spouses
+# parch - 0,2 - number of parents/children aboard
+# ticket - 12345
+# fare - 0,100
+# cabin - s12
+# embarked - a,l,n - a = ahmedabad; n=nautan;  l= lucknow
